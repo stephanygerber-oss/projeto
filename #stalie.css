@@ -1,0 +1,27 @@
+/* ==========================================================================
+   Estilos Principais - Projeto Mente Aberta
+   ========================================================================== */
+
+:root {
+    --primary-color: #2b6cb0;
+    --primary-light: #ebf8ff;
+    --accent-teal: #319795;
+    --accent-light: #e6fffa;
+    --text-dark: #2d3748;
+    --text-muted: #4a5568;
+    --bg-body: #f7fafc;
+    --card-bg: #ffffff;
+    --border-radius: 16px;
+    --shadow-sm: 0 2px 4px rgba(0, 0, 0, 0.04);
+    --shadow-md: 0 10px 25px -5px rgba(0, 0, 0, 0.08), 0 8px 10px -6px rgba(0, 0, 0, 0.01);
+    --transition: all 0.3s ease;
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font
